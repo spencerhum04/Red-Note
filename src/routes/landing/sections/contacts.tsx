@@ -1,6 +1,6 @@
 export default function Contacts() {
     return (
-        <div className="w-full flex flex-col className='text-black px-6">
+        <div className="w-full flex flex-col text-black px-6">
             <div className="text-xl font-semibold">Contacts</div>
             <div className="flex flex-col">
                 <div>Spencer Hum: 21seh19@queensu.ca</div>
