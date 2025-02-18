@@ -4,10 +4,10 @@ export default function AssignmentOne() {
             <div className="text-xl font-semibold">Assignment 1</div>
             <div>This is where the assignment contents will go.</div>
 
-            <div className="flex gap-x-4 button-container mt-4">
+            <div className="mt-4">
                 <div className="button-text mb-2"></div>
                 <a href="/CISC322_Assignment_1.pdf" target="_blank" rel="noopener noreferrer" className="button-style bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">A1 Report</a>
-                <a href="/CISC322_A1_Presentation.pdf" target="_blank" rel="noopener noreferrer" className="button-style bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">A1 Presentation</a>
+                <a href="/CISC322_A1_Presentation.pdf" target="_blank" rel="noopener noreferrer" className=" ml-4 button-style bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">A1 Presentation</a>
             </div>
             
         </div>
