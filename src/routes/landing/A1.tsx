@@ -3,7 +3,7 @@ export default function A1() {
         <div className="p-6">
             <h1 className="text-2xl font-bold mb-4">Assignment 1</h1>
             <p className="text-gray-700">
-                Detail for A1
+                
             </p>
         </div>
     );
